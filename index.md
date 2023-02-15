@@ -36,16 +36,18 @@ Year | Institution | Cathegory | Description
 
 ## Publications
 
-1. De Keulenaar E., Kisjes I., Smith R., Albercht C., Wilson J., Cappuccio E. *Authority and misinformation in the process of COVID-19 sensemaking"*, 2022, - part of Mainstreaming the Fringe, Rogers R. - Amsterdam University Press - **under revision**
-2. Cappuccio E., Mauri. M. *Visualization practices on Wikipedia and Wikimedia Commons*, 2022 - **under revision**
+1. Emillie de Keulenaar, Ivan Kisjes, Rory Smith, Carina Albrecht and Eleonora Cappuccio *Twitter as accidental authority: How a platform assumed an adjudicative role during the COVID-19 pandemic"*, 2023, - part of [The Propagation of Misinformation in Social Media](https://www.aup.nl/en/book/9789463720762/the-propagation-of-misinformation-in-social-media), Rogers R. - Amsterdam University Press -
+
 
 ## Selected Projects
 
 Selection of some projects developed throughout the years:
 
+- [Picture a Scientist](https://aigap.it/): Un dialogo su stereotipi e gender gap nelle discipline STEM - event financed by the University of Pisa and organized by Ph.D. students of University of Pisa and Scuola Normale Superiore.
 - [Comizi d'Amore 2.0](https://masterbigdata.it/sites/default/files/projects/2020-2021/comizi_amore/) - Final project of the Master in Big Data Analytics and Social Mining at University of Pisa, 2021
 - [Predicting Travel Trends from Italy to Cuba](https://datashack2019.github.io/alpitour-datashack2019/) - Project developed with 2 students from the Institute for Applied Computational Science (IACS), Harvard University, and 1 student from the Computer Engineering Masters Degree at Politecnico di Milano, 2019
 - [Infopoetry](https://infopoetry.densitydesign.org/) - An archive for some of the projects developed by the Students during the Final Synthesis Studio held by DensityDesign Lab at Politecnico di Milano, 2019
+
 
 ## Conferences and Talks
 - [EuroVis Conference 2022](https://www.eurovis.org/), in presence **As Audience**
@@ -53,6 +55,7 @@ Selection of some projects developed throughout the years:
 - [ItWikiCon2020](https://2020.itwikicon.org/),online, Talk: "La data visualization sui progetti Wikimedia", Speaker
 
 ## Summer and Winter Schools
+- [AFIRMCHI 2022 -  secon biennial Franco-Italian young Researcher Meetup in Computer-Human Interaction](https://afirmchi2022.afihm.org/), Padova - August 2022
 - [AI & Society Summer School](https://phd-ai-society.di.unipi.it/summer-schools/ph-d-ai-society-summer-school-2022/), Pisa - July 2022
 - [Lipary Summer School 2022 on Data Science: Models, Algorithms, AI and Beyond](https://complex22.liparischool.it/), Lipari - July 2022
-- [AFIRMCHI 2022 -  secon biennial Franco-Italian young Researcher Meetup in Computer-Human Interaction](https://afirmchi2022.afihm.org/), Padova - August 2022
+
