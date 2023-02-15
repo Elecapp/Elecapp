@@ -36,8 +36,8 @@ Year | Institution | Cathegory | Description
 
 ## Publications
 
-1. De Keulenaar E., Kisjes I., Smith R., Albercht C., Wilson J., Cappuccio E. *Authority and misinformation in the process of COVID-19 sensemaking"*, 2022, - part of Mainstreaming the Fringe, Rogers R. - Amsterdam University Press - **under revision**
-2. Cappuccio E., Mauri. M. *Visualization practices on Wikipedia and Wikimedia Commons*, 2022 - **under revision**
+1. De Keulenaar E., Kisjes I., Smith R., Albercht C., Wilson J., Cappuccio E. *Authority and misinformation in the process of COVID-19 sensemaking"*, 2022, - part of The Propagation of Misinformation in Social Media, Rogers R. - Amsterdam University Press -
+
 
 ## Selected Projects
 
@@ -53,6 +53,7 @@ Selection of some projects developed throughout the years:
 - [ItWikiCon2020](https://2020.itwikicon.org/),online, Talk: "La data visualization sui progetti Wikimedia", Speaker
 
 ## Summer and Winter Schools
+- [AFIRMCHI 2022 -  secon biennial Franco-Italian young Researcher Meetup in Computer-Human Interaction](https://afirmchi2022.afihm.org/), Padova - August 2022
 - [AI & Society Summer School](https://phd-ai-society.di.unipi.it/summer-schools/ph-d-ai-society-summer-school-2022/), Pisa - July 2022
 - [Lipary Summer School 2022 on Data Science: Models, Algorithms, AI and Beyond](https://complex22.liparischool.it/), Lipari - July 2022
-- [AFIRMCHI 2022 -  secon biennial Franco-Italian young Researcher Meetup in Computer-Human Interaction](https://afirmchi2022.afihm.org/), Padova - August 2022
+
