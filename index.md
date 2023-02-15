@@ -36,18 +36,20 @@ Year | Institution | Cathegory | Description
 
 ## Publications
 
-1. De Keulenaar E., Kisjes I., Smith R., Albercht C., Wilson J., Cappuccio E. *Authority and misinformation in the process of COVID-19 sensemaking"*, 2022, - part of The Propagation of Misinformation in Social Media, Rogers R. - Amsterdam University Press -
+1. Emillie de Keulenaar, Ivan Kisjes, Rory Smith, Carina Albrecht and Eleonora Cappuccio, *"Twitter as accidental authority: How a platform assumed an adjudicative role during the COVID-19 pandemic"*, 2023, - part of The Propagation of Misinformation in Social Media, Rogers R. - Amsterdam University Press -
 
 
 ## Selected Projects
 
 Selection of some projects developed throughout the years:
 
+-[Picture a Scientist](https://aigap.it/), un dialogo su stereotipi e gender gap nelle discipline STEM - funded by the University of Pisa, organized by Ph.D. students form Università di Pisa e Scuola Normale Superiore
 - [Comizi d'Amore 2.0](https://masterbigdata.it/sites/default/files/projects/2020-2021/comizi_amore/) - Final project of the Master in Big Data Analytics and Social Mining at University of Pisa, 2021
 - [Predicting Travel Trends from Italy to Cuba](https://datashack2019.github.io/alpitour-datashack2019/) - Project developed with 2 students from the Institute for Applied Computational Science (IACS), Harvard University, and 1 student from the Computer Engineering Masters Degree at Politecnico di Milano, 2019
 - [Infopoetry](https://infopoetry.densitydesign.org/) - An archive for some of the projects developed by the Students during the Final Synthesis Studio held by DensityDesign Lab at Politecnico di Milano, 2019
 
 ## Conferences and Talks
+- [Gender Equality and Artificial Intelligence](https://www.genderequalityai.com/), in presence **As Audience**
 - [EuroVis Conference 2022](https://www.eurovis.org/), in presence **As Audience**
 - [IUI Conference 2022](https://iui.acm.org/2022/),online, **As Audience**
 - [ItWikiCon2020](https://2020.itwikicon.org/),online, Talk: "La data visualization sui progetti Wikimedia", Speaker
