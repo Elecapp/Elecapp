@@ -36,7 +36,7 @@ Year | Institution | Cathegory | Description
 
 ## Publications
 
-1. Emillie de Keulenaar, Ivan Kisjes, Rory Smith, Carina Albrecht and Eleonora Cappuccio, *"Twitter as accidental authority: How a platform assumed an adjudicative role during the COVID-19 pandemic"*, 2023, - part of The Propagation of Misinformation in Social Media, Rogers R. - Amsterdam University Press -
+1. Emillie de Keulenaar, Ivan Kisjes, Rory Smith, Carina Albrecht and Eleonora Cappuccio, *"Twitter as accidental authority-How a platform assumed an adjudicative role during the COVID-19 pandemic"*, 2023, - part of The Propagation of Misinformation in Social Media, Rogers R. - Amsterdam University Press -
 
 
 ## Selected Projects
