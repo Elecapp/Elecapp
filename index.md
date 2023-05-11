@@ -43,12 +43,13 @@ Year | Institution | Cathegory | Description
 
 Selection of some projects developed throughout the years:
 
--[Picture a Scientist](https://aigap.it/), un dialogo su stereotipi e gender gap nelle discipline STEM - funded by the University of Pisa, organized by Ph.D. students form Università di Pisa e Scuola Normale Superiore
+- [Picture a Scientist](https://aigap.it/), un dialogo su stereotipi e gender gap nelle discipline STEM - funded by the University of Pisa, organized by Ph.D. students form Università di Pisa e Scuola Normale Superiore
 - [Comizi d'Amore 2.0](https://masterbigdata.it/sites/default/files/projects/2020-2021/comizi_amore/) - Final project of the Master in Big Data Analytics and Social Mining at University of Pisa, 2021
 - [Predicting Travel Trends from Italy to Cuba](https://datashack2019.github.io/alpitour-datashack2019/) - Project developed with 2 students from the Institute for Applied Computational Science (IACS), Harvard University, and 1 student from the Computer Engineering Masters Degree at Politecnico di Milano, 2019
 - [Infopoetry](https://infopoetry.densitydesign.org/) - An archive for some of the projects developed by the Students during the Final Synthesis Studio held by DensityDesign Lab at Politecnico di Milano, 2019
 
 ## Conferences and Talks
+- [CHI2023](https://chi2023.acm.org/) - ACM CHI Conference on Human Factors in Computing Systems, in presence **As a Student Volunteer**
 - [Gender Equality and Artificial Intelligence](https://www.genderequalityai.com/), in presence **As Audience**
 - [EuroVis Conference 2022](https://www.eurovis.org/), in presence **As Audience**
 - [IUI Conference 2022](https://iui.acm.org/2022/),online, **As Audience**
@@ -59,3 +60,5 @@ Selection of some projects developed throughout the years:
 - [AI & Society Summer School](https://phd-ai-society.di.unipi.it/summer-schools/ph-d-ai-society-summer-school-2022/), Pisa - July 2022
 - [Lipary Summer School 2022 on Data Science: Models, Algorithms, AI and Beyond](https://complex22.liparischool.it/), Lipari - July 2022
 
+## Teaching
+- Tutor for the Data visualization course of the [Master in Big Data Analytics and Social Mining](https://masterbigdata.it/), May-June 2023
