@@ -36,7 +36,7 @@ Year | Institution | Cathegory | Description
 
 ## Publications
 
-For an Updated list of publications see [here] (https://scholar.google.com/citations?user=IKqvkWkAAAAJ&hl=it&oi=ao)
+For an Updated list of publications see [here](https://scholar.google.com/citations?user=IKqvkWkAAAAJ&hl=it&oi=ao)
 
 
 ## Selected Projects
